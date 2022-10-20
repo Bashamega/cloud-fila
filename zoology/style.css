@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+body{background-color: lightcyan;}
+.content{
+    margin-left: 20%; 
+    width:50%;
+    background-color: rgb(126, 169, 126); 
+    margin-top: 5%;
+    padding-left: 5%; 
+    height:80vh;
+}
+pre{
+    color: white;
+    font-size: xx-large;
+}
+.content a{margin-bottom: 5%;}
